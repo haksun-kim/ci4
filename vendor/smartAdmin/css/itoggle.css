@@ -1,0 +1,29 @@
+/* @ itoggle radio button on/off */
+label.itoggle{
+	display: block;
+	width: 69px;
+	height: 20px;
+	background: url('../img/itoggle.png') no-repeat right bottom;
+	cursor:pointer;
+	text-indent:-5000px;
+}
+label.itoggle span{
+	display: block;
+	width: 70px;
+	height: 20px;
+	background: url('../img/itoggle.png') no-repeat right bottom;
+	cursor:pointer;
+	text-indent:-5000px;
+}
+
+label.itoggle span{
+	background-position: left top;
+	margin: 0;
+	}
+	
+label.iToff{
+	background-position:right bottom;
+}
+label.iTon{
+	background-position:left bottom;
+}
